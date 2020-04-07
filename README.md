@@ -3,7 +3,7 @@ Javascript library for converting quantitative values expressed using UN ECE Rec
 
 ## Online demonstation
 
-https://mgh128.github.io/UnitConverterUNECERec20/
+https://gs1.github.io/UnitConverterUNECERec20/
 
 ## Installation
 
